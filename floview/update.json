@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.0",
-"url": "https://github.com/ccoodi4k/ddku1/releases/download/v1.1.0-beta/Floview.1.1.0-beta.apk",
-  "notes": "首个可自动更新的版本"
+  "versionCode": 6,
+  "versionName": "1.2.0-beta",
+"url": "https://github.com/ccoodi4k/ddku1/releases/download/Floview/Floview.1.2.0-beta",
+  "notes": "接入自动更新检查"
 }
